@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "mUqlEDPZbDXLT3vh+6Vixl53EHqtoHAqE5WARB1URP8=",
+  "Source": "ecsapp",
+  "BasePath": "_content/ecsapp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
